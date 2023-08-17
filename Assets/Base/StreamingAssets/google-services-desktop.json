@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "796379434373",
+    "project_id": "stake-master",
+    "storage_bucket": "stake-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796379434373:android:bff203b72c365972a9c8ec",
+        "android_client_info": {
+          "package_name": "com.bugogu.BulletMaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796379434373-n890squnma0fn6qp0kql9vd4s8eugcin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY1KoQucvHis1g-SqRWDeGdax1IXADXKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796379434373-n890squnma0fn6qp0kql9vd4s8eugcin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

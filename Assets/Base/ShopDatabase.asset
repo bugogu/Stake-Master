@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7930a9a0897acb14faccffad509bcdb6, type: 3}
+  m_Name: ShopDatabase
+  m_EditorClassIdentifier: 
+  items:
+  - itemImage: {fileID: 21300000, guid: 108366c51c39ead4a9205707e7c73eea, type: 3}
+    itemName: Dart
+    itemPrice: 0
+    isPurchased: 1
+  - itemImage: {fileID: 21300000, guid: 9f37a42c2a17b944a8a69908c1cc1282, type: 3}
+    itemName: Tack
+    itemPrice: 1000
+    isPurchased: 1
+  - itemImage: {fileID: 21300000, guid: a0e444ed85cf20d4fb759f1a3c793a49, type: 3}
+    itemName: Dagger
+    itemPrice: 2000
+    isPurchased: 1
+  - itemImage: {fileID: 21300000, guid: 64b6f29ad4b10aa40aae928d3e85df49, type: 3}
+    itemName: Pencil
+    itemPrice: 3000
+    isPurchased: 1
